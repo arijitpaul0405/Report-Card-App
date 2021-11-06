@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Report Card App</string>
+    <string name="name_string">Name : \u0020</string>
+    <string name="roll_string">Roll no : \u0020</string>
+    <string name="grade_string">GRADE : \u0020</string>
+    <string name="section_a_label_mainActivity">Section A</string>
+    <string name="section_b_label_mainActivity">Section B</string>
+    <string name="section_c_label_mainActivity">Section C</string>
+</resources>
